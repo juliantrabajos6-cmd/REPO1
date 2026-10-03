@@ -19,7 +19,7 @@ jobs:
         with:
           server: ftp-julianapi.alwaysdata.net # Change if using another host
           username: julianapi
-          password: clase1234
+          password: clase12345
           server-dir: www/ # Replace with your correct path
           protocol: ftps
           timeout: 86400000
